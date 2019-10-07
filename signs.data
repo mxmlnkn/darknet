@@ -1,0 +1,6 @@
+classes=1
+train  = signs.train.list
+valid  = signs.train.list
+backup = sign-weights/
+names  = signs.names
+

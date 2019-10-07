@@ -1,0 +1,6 @@
+classes=1
+train  = droplets.train.list
+valid  = droplets.valid.list
+backup = droplet-weights/
+names  = droplets.names
+
